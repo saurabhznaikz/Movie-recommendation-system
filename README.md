@@ -26,6 +26,16 @@ install requirements
 ```bash
 pip install -r requirements.txt
 ```
+run jupyter notebook
+```bash
+recommender Systems.ipynb
+```
+This will result in creation of 2 files
+```bash
+movie_list.pkl
+similarity.pkl
+```
+
 run streamlit app
 ```bash
 streamlit run app.py
