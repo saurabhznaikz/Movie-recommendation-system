@@ -54,9 +54,9 @@ sklearn==0.0
 smmap==5.0.0
 streamlit==1.13.0
 tangled-up-in-unicode==0.2.0
-tensorboard==2.10.1
+tensorboard
 tensorboard-data-server==0.6.1
-tensorflow==2.10.0
+tensorflow
 tensorflow-io-gcs-filesystem==0.27.0
 threadpoolctl==3.1.0
 toml==0.10.2
